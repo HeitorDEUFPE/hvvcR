@@ -84,4 +84,3 @@ descritive.response <- function(data,response,type,fill = "grey",color = "black"
   }
   par(ask = FALSE)
 }
-
